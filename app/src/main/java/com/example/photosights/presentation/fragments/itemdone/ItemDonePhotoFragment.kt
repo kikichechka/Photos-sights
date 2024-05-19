@@ -5,7 +5,6 @@ import android.content.Intent
 import android.content.pm.PackageManager
 import android.os.Build
 import android.os.Bundle
-import android.util.Log
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
@@ -24,7 +23,6 @@ import com.example.photosights.R
 import com.example.photosights.databinding.FragmentItemDonePhotoBinding
 import com.example.photosights.presentation.MainActivity
 import com.example.photosights.presentation.ViewModelFactory
-import com.google.firebase.messaging.FirebaseMessaging
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.flow.launchIn
 import kotlinx.coroutines.flow.onEach

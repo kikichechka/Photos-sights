@@ -6,7 +6,6 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.navigation.findNavController
-import com.example.photosights.App
 import com.example.photosights.R
 import dagger.hilt.android.AndroidEntryPoint
 
